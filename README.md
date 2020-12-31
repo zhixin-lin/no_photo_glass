@@ -1,5 +1,6 @@
 # SMART VITRINE GLASS: OOPS NO PHOTOS PLZ
 Smart Vitrine Glass That Helps Museum Visitors Better Focus on Appreciating Art by Reducing the Use of Photography
+
 Developed by Zhixin Lin
 
 The phenomenon of camera tourism in museums has become prevalent as image-rich social media increasingly gains popularity. Photographs almost act like proof of ones' taste for arts. However, the over-focus on snapping photos could be troublesome as one's attention is stolen away from the artwork itself. Psychological researches have shown the existence of the "photo-taking-impairment effect". To put it simply, people tend to remember less of the objects they photographed than those they only observed.

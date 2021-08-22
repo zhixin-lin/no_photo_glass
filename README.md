@@ -10,5 +10,6 @@ The working prototype utilizes electrochromic glass material, object detection m
 
 
 Developed by Zhixin Lin
+
 Learn more at: zhixinlin.com/glass-no-photos
 

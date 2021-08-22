@@ -1,4 +1,4 @@
-# SMART VITRINE GLASS: OOPS NO PHOTOS PLZ
+# SMART GLAZING FOR ART DISPLAY: OOPS NO PHOTOS PLZ
 Smart Vitrine Glass That Helps Museum Visitors Better Focus on Appreciating Art by Reducing the Use of Photography
 
 
